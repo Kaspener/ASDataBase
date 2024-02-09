@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">DataBase</string>
+    <string name="name">Имя</string>
+    <string name="weight">Вес</string>
+    <string name="height">Рост</string>
+    <string name="age">Возраст</string>
+</resources>
